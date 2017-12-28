@@ -8,3 +8,7 @@ Adding first APK and temp art
 ### 12/27
 
 Ok, somewhat of a playable "Game". Game loop logic to come. Entered Alpha Stage
+
+### 12/27
+
+Two of the three stages are at bare minimum functionality. (Dodge and Turn)
